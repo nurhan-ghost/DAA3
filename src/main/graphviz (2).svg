@@ -1,0 +1,240 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="278pt" height="577pt" viewBox="0.00 0.00 278.00 577.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 572.8)">
+<title>Large</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-572.8 274,-572.8 274,4 -4,4"/>
+<!-- A -->
+<g id="node1" class="node">
+<title>A</title>
+<ellipse fill="none" stroke="black" cx="135" cy="-550.8" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="135" y="-546.6" font-family="Times,serif" font-size="14.00">A</text>
+</g>
+<!-- B -->
+<g id="node2" class="node">
+<title>B</title>
+<ellipse fill="none" stroke="black" cx="99" cy="-462" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="99" y="-457.8" font-family="Times,serif" font-size="14.00">B</text>
+</g>
+<!-- A&#45;&#45;B -->
+<g id="edge1" class="edge">
+<title>A--B</title>
+<path fill="none" stroke="black" d="M128.06,-533.06C121.68,-517.69 112.29,-495.04 105.92,-479.68"/>
+<text xml:space="preserve" text-anchor="middle" x="123.72" y="-502.2" font-family="Times,serif" font-size="14.00">5</text>
+</g>
+<!-- C -->
+<g id="node3" class="node">
+<title>C</title>
+<ellipse fill="none" stroke="black" cx="171" cy="-462" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="171" y="-457.8" font-family="Times,serif" font-size="14.00">C</text>
+</g>
+<!-- A&#45;&#45;C -->
+<g id="edge2" class="edge">
+<title>A--C</title>
+<path fill="none" stroke="black" d="M141.94,-533.06C148.32,-517.69 157.71,-495.04 164.08,-479.68"/>
+<text xml:space="preserve" text-anchor="middle" x="159.72" y="-502.2" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+<!-- D -->
+<g id="node4" class="node">
+<title>D</title>
+<ellipse fill="none" stroke="black" cx="27" cy="-373.2" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="27" y="-369" font-family="Times,serif" font-size="14.00">D</text>
+</g>
+<!-- B&#45;&#45;D -->
+<g id="edge3" class="edge">
+<title>B--D</title>
+<path fill="none" stroke="black" d="M86.46,-445.88C73.32,-430.05 52.81,-405.32 39.64,-389.44"/>
+<text xml:space="preserve" text-anchor="middle" x="72.95" y="-413.4" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- E -->
+<g id="node5" class="node">
+<title>E</title>
+<ellipse fill="none" stroke="black" cx="99" cy="-373.2" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="99" y="-369" font-family="Times,serif" font-size="14.00">E</text>
+</g>
+<!-- B&#45;&#45;E -->
+<g id="edge4" class="edge">
+<title>B--E</title>
+<path fill="none" stroke="black" d="M99,-443.85C99,-428.73 99,-406.81 99,-391.61"/>
+<text xml:space="preserve" text-anchor="middle" x="102.5" y="-413.4" font-family="Times,serif" font-size="14.00">7</text>
+</g>
+<!-- F -->
+<g id="node6" class="node">
+<title>F</title>
+<ellipse fill="none" stroke="black" cx="171" cy="-373.2" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="171" y="-369" font-family="Times,serif" font-size="14.00">F</text>
+</g>
+<!-- C&#45;&#45;F -->
+<g id="edge5" class="edge">
+<title>C--F</title>
+<path fill="none" stroke="black" d="M171,-443.85C171,-428.73 171,-406.81 171,-391.61"/>
+<text xml:space="preserve" text-anchor="middle" x="174.5" y="-413.4" font-family="Times,serif" font-size="14.00">6</text>
+</g>
+<!-- G -->
+<g id="node7" class="node">
+<title>G</title>
+<ellipse fill="none" stroke="black" cx="243" cy="-373.2" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="243" y="-369" font-family="Times,serif" font-size="14.00">G</text>
+</g>
+<!-- C&#45;&#45;G -->
+<g id="edge6" class="edge">
+<title>C--G</title>
+<path fill="none" stroke="black" d="M183.54,-445.88C196.68,-430.05 217.19,-405.32 230.36,-389.44"/>
+<text xml:space="preserve" text-anchor="middle" x="216.95" y="-413.4" font-family="Times,serif" font-size="14.00">4</text>
+</g>
+<!-- H -->
+<g id="node8" class="node">
+<title>H</title>
+<ellipse fill="none" stroke="black" cx="27" cy="-284.4" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="27" y="-280.2" font-family="Times,serif" font-size="14.00">H</text>
+</g>
+<!-- D&#45;&#45;H -->
+<g id="edge7" class="edge">
+<title>D--H</title>
+<path fill="none" stroke="black" d="M27,-355.05C27,-339.93 27,-318.01 27,-302.81"/>
+<text xml:space="preserve" text-anchor="middle" x="30.5" y="-324.6" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+<!-- I -->
+<g id="node9" class="node">
+<title>I</title>
+<ellipse fill="none" stroke="black" cx="99" cy="-284.4" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="99" y="-280.2" font-family="Times,serif" font-size="14.00">I</text>
+</g>
+<!-- E&#45;&#45;I -->
+<g id="edge8" class="edge">
+<title>E--I</title>
+<path fill="none" stroke="black" d="M99,-355.05C99,-339.93 99,-318.01 99,-302.81"/>
+<text xml:space="preserve" text-anchor="middle" x="102.5" y="-324.6" font-family="Times,serif" font-size="14.00">5</text>
+</g>
+<!-- J -->
+<g id="node10" class="node">
+<title>J</title>
+<ellipse fill="none" stroke="black" cx="171" cy="-284.4" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="171" y="-280.2" font-family="Times,serif" font-size="14.00">J</text>
+</g>
+<!-- F&#45;&#45;J -->
+<g id="edge9" class="edge">
+<title>F--J</title>
+<path fill="none" stroke="black" d="M171,-355.05C171,-339.93 171,-318.01 171,-302.81"/>
+<text xml:space="preserve" text-anchor="middle" x="174.5" y="-324.6" font-family="Times,serif" font-size="14.00">6</text>
+</g>
+<!-- K -->
+<g id="node11" class="node">
+<title>K</title>
+<ellipse fill="none" stroke="black" cx="243" cy="-284.4" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="243" y="-280.2" font-family="Times,serif" font-size="14.00">K</text>
+</g>
+<!-- G&#45;&#45;K -->
+<g id="edge10" class="edge">
+<title>G--K</title>
+<path fill="none" stroke="black" d="M243,-355.05C243,-339.93 243,-318.01 243,-302.81"/>
+<text xml:space="preserve" text-anchor="middle" x="246.5" y="-324.6" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- L -->
+<g id="node12" class="node">
+<title>L</title>
+<ellipse fill="none" stroke="black" cx="27" cy="-195.6" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="27" y="-191.4" font-family="Times,serif" font-size="14.00">L</text>
+</g>
+<!-- H&#45;&#45;L -->
+<g id="edge11" class="edge">
+<title>H--L</title>
+<path fill="none" stroke="black" d="M27,-266.25C27,-251.13 27,-229.21 27,-214.01"/>
+<text xml:space="preserve" text-anchor="middle" x="30.5" y="-235.8" font-family="Times,serif" font-size="14.00">8</text>
+</g>
+<!-- M -->
+<g id="node13" class="node">
+<title>M</title>
+<ellipse fill="none" stroke="black" cx="99" cy="-195.6" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="99" y="-191.4" font-family="Times,serif" font-size="14.00">M</text>
+</g>
+<!-- I&#45;&#45;M -->
+<g id="edge12" class="edge">
+<title>I--M</title>
+<path fill="none" stroke="black" d="M99,-266.25C99,-251.13 99,-229.21 99,-214.01"/>
+<text xml:space="preserve" text-anchor="middle" x="102.5" y="-235.8" font-family="Times,serif" font-size="14.00">5</text>
+</g>
+<!-- N -->
+<g id="node14" class="node">
+<title>N</title>
+<ellipse fill="none" stroke="black" cx="171" cy="-195.6" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="171" y="-191.4" font-family="Times,serif" font-size="14.00">N</text>
+</g>
+<!-- J&#45;&#45;N -->
+<g id="edge13" class="edge">
+<title>J--N</title>
+<path fill="none" stroke="black" d="M171,-266.25C171,-251.13 171,-229.21 171,-214.01"/>
+<text xml:space="preserve" text-anchor="middle" x="174.5" y="-235.8" font-family="Times,serif" font-size="14.00">4</text>
+</g>
+<!-- O -->
+<g id="node15" class="node">
+<title>O</title>
+<ellipse fill="none" stroke="black" cx="243" cy="-195.6" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="243" y="-191.4" font-family="Times,serif" font-size="14.00">O</text>
+</g>
+<!-- K&#45;&#45;O -->
+<g id="edge14" class="edge">
+<title>K--O</title>
+<path fill="none" stroke="black" d="M243,-266.25C243,-251.13 243,-229.21 243,-214.01"/>
+<text xml:space="preserve" text-anchor="middle" x="246.5" y="-235.8" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+<!-- P -->
+<g id="node16" class="node">
+<title>P</title>
+<ellipse fill="none" stroke="black" cx="27" cy="-106.8" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="27" y="-102.6" font-family="Times,serif" font-size="14.00">P</text>
+</g>
+<!-- L&#45;&#45;P -->
+<g id="edge15" class="edge">
+<title>L--P</title>
+<path fill="none" stroke="black" d="M27,-177.45C27,-162.33 27,-140.41 27,-125.21"/>
+<text xml:space="preserve" text-anchor="middle" x="30.5" y="-147" font-family="Times,serif" font-size="14.00">6</text>
+</g>
+<!-- Q -->
+<g id="node17" class="node">
+<title>Q</title>
+<ellipse fill="none" stroke="black" cx="99" cy="-106.8" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="99" y="-102.6" font-family="Times,serif" font-size="14.00">Q</text>
+</g>
+<!-- M&#45;&#45;Q -->
+<g id="edge16" class="edge">
+<title>M--Q</title>
+<path fill="none" stroke="black" d="M99,-177.45C99,-162.33 99,-140.41 99,-125.21"/>
+<text xml:space="preserve" text-anchor="middle" x="102.5" y="-147" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- R -->
+<g id="node18" class="node">
+<title>R</title>
+<ellipse fill="none" stroke="black" cx="171" cy="-106.8" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="171" y="-102.6" font-family="Times,serif" font-size="14.00">R</text>
+</g>
+<!-- N&#45;&#45;R -->
+<g id="edge17" class="edge">
+<title>N--R</title>
+<path fill="none" stroke="black" d="M171,-177.45C171,-162.33 171,-140.41 171,-125.21"/>
+<text xml:space="preserve" text-anchor="middle" x="174.5" y="-147" font-family="Times,serif" font-size="14.00">8</text>
+</g>
+<!-- S -->
+<g id="node19" class="node">
+<title>S</title>
+<ellipse fill="none" stroke="black" cx="243" cy="-106.8" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="243" y="-102.6" font-family="Times,serif" font-size="14.00">S</text>
+</g>
+<!-- O&#45;&#45;S -->
+<g id="edge18" class="edge">
+<title>O--S</title>
+<path fill="none" stroke="black" d="M243,-177.45C243,-162.33 243,-140.41 243,-125.21"/>
+<text xml:space="preserve" text-anchor="middle" x="246.5" y="-147" font-family="Times,serif" font-size="14.00">6</text>
+</g>
+<!-- T -->
+<g id="node20" class="node">
+<title>T</title>
+<ellipse fill="none" stroke="black" cx="27" cy="-18" rx="27" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="27" y="-13.8" font-family="Times,serif" font-size="14.00">T</text>
+</g>
+<!-- P&#45;&#45;T -->
+<g id="edge19" class="edge">
+<title>P--T</title>
+<path fill="none" stroke="black" d="M27,-88.65C27,-73.53 27,-51.61 27,-36.41"/>
+<text xml:space="preserve" text-anchor="middle" x="30.5" y="-58.2" font-family="Times,serif" font-size="14.00">5</text>
+</g>
+</g>
+</svg>
