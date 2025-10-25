@@ -4,6 +4,7 @@ import com.google.gson.*;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Locale;
 
 public class CSVExporter {
 
@@ -44,7 +45,7 @@ public class CSVExporter {
             int primOps = prim.get("operations_count").getAsInt();
             int kruskalOps = kruskal.get("operations_count").getAsInt();
 
-            csv.append(String.format(
+            csv.append(String.format(Locale.US,
                     "%d,%d,%d,%.2f,%.2f,%s,%d,%d,%s,%.3f,%.3f,%d,%d\n",
                     graphId, vertices, edges,
                     kruskalCost, primCost,
@@ -60,7 +61,6 @@ public class CSVExporter {
             writer.write(csv.toString());
         }
 
-        System.out.println("CSV file created: src/main/resources/output.csv");
+        System.out.println("CSV file created successfully: src/main/resources/output.csv");
     }
 }
-
