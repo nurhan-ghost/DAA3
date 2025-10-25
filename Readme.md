@@ -113,8 +113,8 @@ DAA3Assignment/
 }
 ```
 ![Graph 1](src/main/graphviz.svg)
-![Graph 2](src/main/graphviz (1).svg)
-![Graph 3](src/main/graphviz (2).svg)
+![Graph 2](src/main/graphviz(1).svg)
+![Graph 3](src/main/graphviz(2).svg)
 
 
 ## Automated Tests (JUnit 5)
